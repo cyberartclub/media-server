@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: media-server
+created: 2026-10-14T08:46:02-07:00
